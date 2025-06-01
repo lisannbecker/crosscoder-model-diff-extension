@@ -1,0 +1,10 @@
+checkpoints_distillation_gpt2-137m-88m/*
+checkpoints_scale_pythia-160m-70m/*
+checkpoints_finetuning_gemma-2-2b/*
+checkpoints_same_gpt2-88m/*
+checkpoints_same_gpt2-137m/*
+checkpoints_same_pythia-70m/*
+checkpoints_same_pythia-160m/*
+
+wandb/*
+*.pt
